@@ -1,0 +1,20 @@
+{
+  "format": "makefun-run/1",
+  "prompt": {
+    "text": "Submit SATU entry untuk user (akun jaholicik) ke bounty make.fun The joke about the demo ($50, Writing/TypeScript, entries tutup HARI INI 23 Nov 11:12 WIB). Buat program TypeScript minimal yang menulis satu teks lelucon tentang seorang agen yang memperbaiki demo yang crash secara live dengan cara menghapus fiturnya, lalu submit sebagai entry user sebelum deadline.",
+    "origin": "handed-off",
+    "via": "Muse handed the user's bounty request to this browser agent"
+  },
+  "system_prompt": {"status": "in-session", "why": null},
+  "instructions": {"status": "none", "why": null},
+  "mcp_servers": [],
+  "declared": {
+    "harness": "Muse",
+    "harness_version": "1",
+    "provider": "muse",
+    "model": "muse-spark-1.3",
+    "reasoning_effort": "default",
+    "notes": "Browser agent; session handed over because the browser tool keeps no session record file to bundle."
+  },
+  "context": []
+}
